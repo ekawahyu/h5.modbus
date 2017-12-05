@@ -20,7 +20,13 @@ Implementation of the MODBUS IP/ASCII/RTU master and slave over TCP/UDP/Serial/W
 ## Installation
 
 ```
-npm install github:morkai/h5.modbus#master
+npm install github:ekawahyu/h5.modbus#master
+```
+
+## Version to support virtual-serialport v4
+
+```
+npm install github:ekawahyu/h5.modbus#fix/virtual-serialport-support
 ```
 
 ## Usage
