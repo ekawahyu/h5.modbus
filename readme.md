@@ -26,7 +26,7 @@ npm install github:ekawahyu/h5.modbus#master
 ## Version to support virtual-serialport v4
 
 ```
-npm install github:ekawahyu/h5.modbus#fix/virtual-serialport-support
+npm install github:ekawahyu/h5.modbus#virtual-serialport-support
 ```
 
 ## Usage
